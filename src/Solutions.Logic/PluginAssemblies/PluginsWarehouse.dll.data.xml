@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<PluginAssembly FullName="PluginsWarehouse, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c6af0a9cc57880d4" PluginAssemblyId="957bcb06-a2f8-4d1d-af36-756d9bfa7514" CustomizationLevel="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<PluginAssembly FullName="PluginsWarehouse, Version=1.0.0.0, Culture=neutral, PublicKeyToken=4647a9de3c37d706" PluginAssemblyId="0f7c6ecf-448b-4596-ab0f-e929046d49eb" CustomizationLevel="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <IsolationMode>2</IsolationMode>
   <SourceType>0</SourceType>
   <FileName>/PluginAssemblies/PluginsWarehouse.dll</FileName>
   <PluginTypes>
-    <PluginType AssemblyQualifiedName="Plugins.Warehouse.SubtractQuantityPlugin, PluginsWarehouse, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c6af0a9cc57880d4" PluginTypeId="8e09d51b-b7aa-4cbd-992e-67a05e6d3d6d" Name="Plugins.Warehouse.SubtractQuantityPlugin">
-      <FriendlyName>a47960f9-2b72-49c7-90ff-05e137fe449b</FriendlyName>
+    <PluginType AssemblyQualifiedName="Plugins.Warehouse.SubtractQuantityPlugin, PluginsWarehouse, Version=1.0.0.0, Culture=neutral, PublicKeyToken=4647a9de3c37d706" PluginTypeId="50803958-575a-443f-82dc-4b0771ac3e16" Name="Plugins.Warehouse.SubtractQuantityPlugin">
+      <FriendlyName>b17819f2-e084-41ce-9244-51cb4286be28</FriendlyName>
     </PluginType>
-    <PluginType AssemblyQualifiedName="Plugins.Warehouse.ValidateWarehouseTransactionPlugin, PluginsWarehouse, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c6af0a9cc57880d4" PluginTypeId="7786d0b3-765d-4b61-8434-94103d0b105d" Name="Plugins.Warehouse.ValidateWarehouseTransactionPlugin">
-      <FriendlyName>d6e06668-a091-439b-9f14-3299338f8851</FriendlyName>
+    <PluginType AssemblyQualifiedName="Plugins.Warehouse.ValidateWarehouseTransactionPlugin, PluginsWarehouse, Version=1.0.0.0, Culture=neutral, PublicKeyToken=4647a9de3c37d706" PluginTypeId="77b097b4-fac6-4464-bd01-ed51179d023d" Name="Plugins.Warehouse.ValidateWarehouseTransactionPlugin">
+      <FriendlyName>99f71628-24f3-41a6-93fb-bc8d74e6a13e</FriendlyName>
     </PluginType>
   </PluginTypes>
 </PluginAssembly>
