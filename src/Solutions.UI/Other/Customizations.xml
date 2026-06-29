@@ -14,4 +14,7 @@
   <Languages>
     <Language>1033</Language>
   </Languages>
+  <AppModuleSiteMaps />
+  <AppModules />
+  <Dialogs />
 </ImportExportXml>

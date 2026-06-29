@@ -1,4 +1,7 @@
 <Project Sdk="TALXIS.DevKit.Build.Sdk/1.6.1">
+  <ItemGroup>
+    <ProjectReference Include="..\Scripts.UI\Scripts.UI.csproj" />
+  </ItemGroup>
   <PropertyGroup>
     <TargetFramework>net462</TargetFramework>
     <ProjectType>Solution</ProjectType>
