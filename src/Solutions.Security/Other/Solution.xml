@@ -128,8 +128,8 @@
       </Addresses>
     </Publisher>
     <RootComponents>
-      <RootComponent type="20" id="{468b4d18-060e-42ea-b81e-f91a2a4d7ad4}" behavior="0" />
-      <RootComponent type="20" id="{847f31aa-065f-4151-9343-2431c3aa7aba}" behavior="0" />
+      <RootComponent type="20" id="{5df6bcd7-1bd1-4efd-a8ff-5c180a782f62}" behavior="0" />
+      <RootComponent type="20" id="{c1bb3557-6cd8-4460-8615-f40275759da3}" behavior="0" />
     </RootComponents>
     <MissingDependencies />
   </SolutionManifest>
