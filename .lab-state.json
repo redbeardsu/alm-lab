@@ -12,5 +12,12 @@
   "testEnvName": "Warehouse test 3346",
   "testEnvDomain": "wm-test-3346",
   "testEnvUrl": "https://wm-test-3346.crm4.dynamics.com",
-  "testProfile": "test"
+  "testProfile": "test",
+  "repo": "redbeardsu/alm-lab",
+  "appName": "wm-deploy-3346",
+  "appId": "8c5a045b-19ba-4369-968b-7b30d281ee16",
+  "appObjectId": "26c4f11e-7a4c-4799-bedf-b5e21e7ce4af",
+  "servicePrincipalObjectId": "4851a997-e642-4605-bd93-cdf2810424a7",
+  "federatedCredentialName": "github-main",
+  "dataverseTestUrl": "https://wm-test-3346.crm4.dynamics.com"
 }
