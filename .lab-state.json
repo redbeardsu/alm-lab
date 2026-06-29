@@ -4,5 +4,13 @@
   "txcAuth": "agnes.walte@ngtraining1.onmicrosoft.com",
   "solutionName": "WarehouseManagement",
   "publisherName": "ALMLab",
-  "publisherPrefix": "almlab"
+  "publisherPrefix": "almlab",
+  "devEnvName": "Warehouse dev 3346",
+  "devEnvDomain": "wm-dev-3346",
+  "devEnvUrl": "https://wm-dev-3346.crm4.dynamics.com",
+  "devProfile": "dev",
+  "testEnvName": "Warehouse test 3346",
+  "testEnvDomain": "wm-test-3346",
+  "testEnvUrl": "https://wm-test-3346.crm4.dynamics.com",
+  "testProfile": "test"
 }
